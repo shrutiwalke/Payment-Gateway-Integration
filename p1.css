@@ -1,0 +1,75 @@
+*
+{
+    margin:0;
+    padding:0;
+ }
+
+body
+{
+   background:rgba(0,0,0,0.6)url(c1.jpg)no-repeat;
+   height:450px;
+   background-size: cover;
+   position: relative;
+   background-blend-mode: darken;
+}
+ .logo{
+  font-family: 'Great Vibes';
+  font-size: 40px;
+  cursor: pointer;
+  text-align: left;
+  color:white;
+}
+
+
+.we
+{
+	color:white;
+	text-align: center;
+	margin-top: 10%;
+	 font-family: 'Great Vibes'; 
+	font-size: 60px;
+	
+}
+.we span
+{
+	color:#00FFFF;
+}
+.we p
+{
+	font-size:20px; 
+	text-decoration:underline;
+	text-decoration-color:blue;
+	text-decoration-thickness:0.1em;
+	text-underline-offset:10px;  
+	font-family: normal;
+}
+.donate
+{ 
+	text-align: center;
+	color:white;
+}
+.donate p b
+{
+	line-height:1;
+} 
+
+.donate a
+{
+    line-height: normal;
+	background:linear-gradient(90deg,#0162c8,#55e7fc);
+	border-radius: 30px;
+	font-size: 16px;
+	padding:5px 10px 10px 10px;
+	text-decoration: none;
+	border-style: none;
+	font:bold;
+	color:black;
+
+}
+
+a:hover{
+	background-color: #3385ff;
+}
+.now b{
+	font-size:13px;
+}
